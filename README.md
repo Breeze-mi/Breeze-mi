@@ -26,8 +26,8 @@
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Circles61&show_icons=true&theme=transparent&hide_border=true"></img></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Circles61&layout=compact&theme=transparent&hide_border=true"></img></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Breeze-mi&show_icons=true&theme=transparent&hide_border=true"></img></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breeze-mi&layout=compact&theme=transparent&hide_border=true"></img></td>
     </tr>
   </tbody>
 </table>
@@ -42,13 +42,13 @@
 显示过去一年的贡献记录（看我每一天的努力💪）：
 </span>
 <!-- <div style="background-color: #ffffff"> -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Circles61&theme=transparent" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Breeze-mi&theme=transparent" />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Circles61/Circles61/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Circles61/Circles61/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Circles61/Circles61/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Breeze-mi/Breeze-mi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Breeze-mi/Breeze-mi/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Breeze-mi/Breeze-mi/output/github-contribution-grid-snake.svg" />
 </picture>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Circles61&theme=github-compact" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Breeze-mi&theme=github-compact" />
 <!-- </div> -->
 </p>
 

@@ -26,8 +26,10 @@
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Breeze-mi&show_icons=true&theme=transparent&hide_border=true"></img></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breeze-mi&layout=compact&theme=transparent&hide_border=true"></img></td>
+    <td><img src="./profile/stats.svg"></img></td>
+    <td><img src="./profile/top-langs.svg"></img></td>
+
+</td>
     </tr>
   </tbody>
 </table>
